@@ -1,7 +1,9 @@
 # telegram_mt5_integration
 Telegram MT5 integration
 
-This repo allows you to integrate Telegram app and pass on specific messages through a channel receive those message and execute the trades on MT5.
+**MetaTrader 5** is a free application for traders allowing to perform technical analysis and trading operations in the Forex and exchange markets.
+
+This repo allows you to integrate Telegram app and pass on specific messages through a channel/user to yourself, receive those message and execute the trades on MT5.
 
 The code is written for Specific hourly requirements of a trader.
 Requirements were as follow :
