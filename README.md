@@ -27,7 +27,8 @@ Config is as show below:
   "deviation": 1  // Deviation to when placing order
   "volume": // Quanitity when placing/closing orders 
   "sender_name": "InvestingGuide", // Name of person sending message
-  "sender_id": "sender_id" // Chat id of the person sending messages
+  "sender_id": "sender_id" // Chat id of the person sending messages,
+  "close_orders_file": "close_orders.csv" // File path to store Closed Orders
 }
 
 ```

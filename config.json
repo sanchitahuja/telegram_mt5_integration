@@ -10,5 +10,6 @@
   "deviation": 1,
   "volume": 1,
   "sender_name": "InvestingGuide",
-  "sender_id": "sender_id"
+  "sender_id": "sender_id",
+  "close_orders_file": "close_orders.csv"
 }
