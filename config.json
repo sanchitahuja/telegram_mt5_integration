@@ -1,0 +1,14 @@
+{
+  "api_id": "<api_id>",
+  "api_hash": "<api_hash>",
+  "phone": "+91<mobile_number>",
+  "user_name": "Goku97Sama",
+  "account": 12345678 ,
+  "password": "",
+  "symbol": "GBPUSD",
+  "orders_file": "orders.csv",
+  "deviation": 1,
+  "volume": 1,
+  "sender_name": "InvestingGuide",
+  "sender_id": "sender_id"
+}
